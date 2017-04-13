@@ -10,4 +10,4 @@ Complete 30 days of JavaScript exercises.
 
 [Day 1 - Drum Kit](http://spialelo.github.io/D1-Drumkit/index.html)
 
-===
+___
