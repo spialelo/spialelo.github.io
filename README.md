@@ -10,7 +10,6 @@ Complete 30 days of JavaScript exercises.
 
 [Day 2 - CSS Clock](http://spialelo.github.io/D2-CSSnClock/index.html)
 
-
 [Day 3 - CSS Variables]
 
 
@@ -93,3 +92,5 @@ Complete 30 days of JavaScript exercises.
 
 
 [Day 30]
+
+---
